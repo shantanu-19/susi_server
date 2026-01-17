@@ -8,7 +8,7 @@ buildscript {
     dependencies {
         // FIXED: Updated from 2.0.4 (broken) to 5.2.0 (working)
         
-        classpath 'com.github.johnrengelman.shadow:com.github.johnrengelman.shadow.gradle.plugin:4.0.4'
+       classpath 'com.github.johnrengelman.shadow:com.github.johnrengelman.shadow.gradle.plugin:4.0.4'
         classpath 'org.ajoberstar:gradle-git:0.7.0' 
     }
 }

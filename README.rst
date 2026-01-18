@@ -104,7 +104,8 @@ A self-upgrading process is available which must be triggered by a shell command
     
 2.  **Clone and Build:**
     ```bash
-    git clone [https://github.com/fossasia/susi_server.git](https://github.com/fossasia/susi_server.git)
+    git clone [https://github.com/fossasia/susi_server.git]
+             (https://github.com/fossasia/susi_server.git)
     cd susi_server
     ./gradlew.bat build -x test
     ```
